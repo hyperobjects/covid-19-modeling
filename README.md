@@ -1,2 +1,2 @@
-# covid-19-modeling
-EDA, Linear Regression, and ARMA modeling of worldwide aggregated COIVD-19 data.
+
+Exploratory Data Analysis, Linear Regression, and Time Series modeling of worldwide aggregated covid-19 modeling dataset https://github.com/datasets/covid-19.
